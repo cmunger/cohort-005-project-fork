@@ -1,0 +1,13 @@
+[hooks]
+        master-key = ENABLED
+        DGL-0 = DISABLED
+        DGL-1 = DISABLED
+        DGL-3 = DISABLED
+        DGL-5 = DISABLED
+        DGL-10 = DISABLED
+        DGL-12 = DISABLED
+        DGL-27 = DISABLED
+        DGL-31 = DISABLED
+        DGL-34 = DISABLED
+        DGL-36 = DISABLED
+ 
